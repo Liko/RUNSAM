@@ -8,9 +8,9 @@ Please provide a brief description of the changes introduced by this pull reques
 Explain the changes that have been made in this pull request.
 
 ## Checklist
-<!-- - [ ] Automated tests have been added or existing tests have been modified to cover the changes. (If not, please explain why not below). -->
+- [ ] Automated tests have been added or existing tests have been modified to cover the changes. (If not, please explain why not below).
 - [ ] Documentation has been updated to reflect the changes (if applicable).
-<!-- - [ ] The changes have been reviewed by at least one other developer. -->
+- [ ] The changes have been reviewed by at least one other developer.
 
 ## Screenshots (if applicable)
 Insert any relevant screenshots or animated GIFs to showcase the changes visually.
